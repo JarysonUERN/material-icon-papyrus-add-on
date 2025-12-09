@@ -1,0 +1,34 @@
+{
+  "name": "papyrus-material-icon",
+  "displayName": "Papyrus Material Icon",
+  "description": "Material Design icons for Papyrus scripts (.psc and .pex)",
+  "version": "0.0.1",
+  "icon": "icons/VSIX icon.png",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jarysonUERN/material-icon-papyrus-add-on"
+  },
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "Papyrus-icon",
+        "label": "Papyrus Icons add-on",
+        "path": "./icons/icons.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.106.1",
+    "@types/node": "22.x",
+    "vsce": "^2.15.0"
+  }
+}

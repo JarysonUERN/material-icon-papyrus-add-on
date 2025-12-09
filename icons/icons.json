@@ -1,0 +1,15 @@
+{
+  "iconDefinitions": {
+    "pscIcon": {
+      "iconPath": "./psc-icon.svg"
+    },
+    "pexIcon": {
+      "iconPath": "./pex-icon.svg"
+    }
+  },
+
+  "fileExtensions": {
+    "psc": "pscIcon",
+    "pex": "pexIcon"
+  }
+}
