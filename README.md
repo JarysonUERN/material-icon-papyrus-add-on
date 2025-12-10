@@ -12,10 +12,10 @@ Adds distinct Material Design icons for the following file extensions:
 * **`.pex`** - Papyrus Compiled Script
 
 ## 🎨 Preview
-** PSC FILES ICON
+** PSC FILES ICON **
 ![psc files](icons/.psc-icon.png)
 
-** PEX FILES ICON
+** PEX FILES ICON **
 ![pex files](icons/.pex-icon.png)
 
 
